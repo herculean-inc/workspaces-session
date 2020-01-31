@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Fri, 31 Jan 2020 09:00:00 -0600
+Source: workspaces-session
+Architecture: source
+Version: 1.0.0
+Distribution: eoan
+Urgency: medium
+Maintainer: Herculean Inc <hello@hercules.dev>
+Changed-By: Herculean Inc <hello@hercules.dev>
+Changes:
+ workspaces-session (1.0.0) eoan; urgency=medium
+ .
+   * First release
+Checksums-Sha1:
+ c3d20a553b68460e1a3c3f3e0e28cac6a79f241a 1590 workspaces-session_1.0.0.dsc
+ efb6466790f7d3a1dc59ebb6b1d0b7e4cacbd12e 13864 workspaces-session_1.0.0.tar.xz
+ a6c26dd0d28401eaf94071f5d4ccce4586663a29 6152 workspaces-session_1.0.0_source.buildinfo
+Checksums-Sha256:
+ b0878b4f9003014c767f49e7b2d72677c6a0ea6ea4daf5df030449b1329e721e 1590 workspaces-session_1.0.0.dsc
+ 7dbe6afb0b190767945583ae031d677e584cdb76017ee0c079ffe5af239965d2 13864 workspaces-session_1.0.0.tar.xz
+ 77c85006a022cbb945de2bed4ced7b4b843c9520a453559d7290c4f68b22bac9 6152 workspaces-session_1.0.0_source.buildinfo
+Files:
+ 7de06733e6639e957b811bbbff613b30 1590 x11 optional workspaces-session_1.0.0.dsc
+ 9a2c47839de66cb29ed806e8b2eb1f64 13864 x11 optional workspaces-session_1.0.0.tar.xz
+ 42af5d62061bb4a08ec2769cbc4eef57 6152 x11 optional workspaces-session_1.0.0_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQJHBAEBCgAxFiEEs7ZTezy6LcwVYNIJS9sBa+IXQOsFAl40itwTHGhlbGxvQGhl
+cmN1bGVzLmRldgAKCRBL2wFr4hdA6zRyD/4/Rpwivb3e03ylCZlEmCAJ1Ve1JdWM
+nsPRPg56+Rl58A+90eQsuejT65CqLic6rIu4qwIlRH9QIR8Uqqi9w7VllsDrIlYW
+ty+OzA3URr/zcZmASaF0avk2fSs11j6FgNYrH3MTWlsttTQ97SoLVGZCpjH5XFl3
+R+kxd8oRrRl9gkCuqZAjoXRW4g6xVTlBTMWQr0S28LfSy4vXZdmp3EjTV+CBEiBF
++QA7Of3NKVzXJdy/w0sys12ajkr2KXkg7tOpK1zQxDTer5K9TsZX0vJ4dkB1VC6R
+Blx/e1BLEQIGa8PqJx4PcqfNMa52Mvn84apA8zQMRueOttocFDidmRIKHWY0kfGb
+bjNDvMBb3a2Pv7+C2mIgp+h3jNmlmdF4zV/ehBHk+GDjPaDRUmLcSv0weZ51EUGL
+3qxOxcoTbYALEKI09ildaWY7u74mA7haGTFL5qjVCcl2AFV40sq2bVJjP4XRvynF
+C3GauAYpwsI5x+a2fLpiP2gHRVAc8V36lzxJq/NghC708dTkMZKs4dHtd0eGC8z+
+i8gOjOU0mHkIOqFeb/OvE0w1n4xsApmUJvdhlzBWjHNZ3KwemTevi3gpVetbL1/V
+2xav2+usArysK95LH+JxuCLkdDh5RM6quQvBxvJTlI3E5KPMJZnpaBfq6llQ8u+X
+BxfUrvCtq+Akcg==
+=YVBj
+-----END PGP SIGNATURE-----
