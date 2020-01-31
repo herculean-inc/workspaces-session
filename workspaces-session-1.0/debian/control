@@ -1,16 +1,17 @@
-Source: pop-session
+Source: workspaces-session
 Section: x11
 Priority: optional
-Maintainer: Jeremy Soller <jeremy@system76.com>
-Uploaders: Ian Santopietro <ian@system76.com>
+Maintainer: Herculean Inc <hello@hercules.dev>
+Uploaders: Herculean Inc <hello@hercules.dev>
 Build-Depends: debhelper (>= 10)
-Standards-Version: 3.9.8
-Homepage: https://github.com/system76/pop-session
+Standards-Version: 1.0.0
+Homepage: https://github.com/herculean-inc/workspaces-session
 
-Package: pop-session
+Package: workspaces-session
 Architecture: all
 Depends: ${misc:Depends},
          gnome-shell,
+         workspaces-material-shell,
          gnome-shell-extension-alt-tab-raise-first-window,
          gnome-shell-extension-always-show-workspaces,
          gnome-shell-extension-desktop-icons,
@@ -24,7 +25,7 @@ Depends: ${misc:Depends},
          pop-gnome-shell-theme,
          xwayland,
 Provides: x-session-manager, gnome-session
-Breaks: pop-default-settings (<< 2)
-Replaces: pop-default-settings (<< 2)
-Description: GNOME session for Pop
- This package contains the GNOME session used by Pop.
+Breaks: workspaces-default-settings (<< 1)
+Replaces: workspaces-default-settings (<< 1)
+Description: GNOME session for Workspaces
+ This package contains the GNOME session used by Workspaces.
