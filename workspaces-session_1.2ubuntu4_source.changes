@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 01 Feb 2020 11:38:01 -0600
+Source: workspaces-session
+Architecture: source
+Version: 1.2ubuntu4
+Distribution: eoan
+Urgency: medium
+Maintainer: Herculean Inc <hello@hercules.dev>
+Changed-By: Herculean Inc <hello@hercules.dev>
+Changes:
+ workspaces-session (1.2ubuntu4) eoan; urgency=medium
+ .
+   * NEW VERSION
+Checksums-Sha1:
+ f3fa80ab000c546b83866b47dc5628c842dba8d8 1581 workspaces-session_1.2ubuntu4.dsc
+ c8c71b7a9e22b800942d71da3fd4973107cbefaa 14200 workspaces-session_1.2ubuntu4.tar.xz
+ fc9d2cf6104abd2787fe3dc4a8201fe04677523d 6143 workspaces-session_1.2ubuntu4_source.buildinfo
+Checksums-Sha256:
+ 71cf45aa210652c597af11d1f1f9b17eab361f316e62bc512b8c1bd2d395a8e5 1581 workspaces-session_1.2ubuntu4.dsc
+ 456549a715e8ead94c5e72c639f6e568cf08fff54218ce2a95ef9083192d2cd3 14200 workspaces-session_1.2ubuntu4.tar.xz
+ 2f9e47f1c404889e07497d78a4ad615e7e5ac19aa32cce09e3c2ef551ca74c17 6143 workspaces-session_1.2ubuntu4_source.buildinfo
+Files:
+ e9f3bb50d2685fb13433e7344beee605 1581 x11 optional workspaces-session_1.2ubuntu4.dsc
+ 9eb1e6c9d4be8524bfed61396550b01f 14200 x11 optional workspaces-session_1.2ubuntu4.tar.xz
+ 4d5f0ef381745b7f922bc9531f2ee375 6143 x11 optional workspaces-session_1.2ubuntu4_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE1mN7EaBKs8vNXODr4dwtItTbNMgFAl41t3oACgkQ4dwtItTb
+NMhqMQ/+KLSMWKSaWwkC4LGoniu7CGhURmDtCaecoatDct9BtNlpZADZI5yB+c6J
+DGZ/gBFow3H3JX42uk5GcgcmrdBWE8wd3+khxEKZkAkuFdwlxakSX2kUYuRGFjul
+VI5cDBtmglCXFz5jBZcGvhuS/FKYqDr9e4t5qZcEIRCSopr230a7vlUZkqKNaUGv
+saHY1UYGOLiifbjpPGB2OrtP1vtbmCZripfOmTXZjzSo4rPzO98LSqPXqL7CDIM5
+1bY8eUj6mgTCUKveAxFElcR+i0BXCrh9RjenK9OD8PGnGVjtGiZvCwTQROji57gE
+R5tHQ7p4BhbcpIH8zr5sla123d4g30n0pyTc3qURtdYWoPN8buGJul4FaoGesif5
+K1SE8TjnkZTCTosMnr8eh3ysPrEjGYjjVSpx0RgkPt0hLJBcoSLvt0hdjs2Z6RP6
+RTUclnMoydkOidCCONTZHZVSKM47lJrqI15Xxo3e4IYUKmgucaskw4OV08JSZ9OH
+M49hVr9JpyNKNq4vLwUCT69xgjypogxfSTP6HTLpc/5suN9lECS1ODouQ65yfRIE
+61aT32S9O+yJ/qqYlWoeIS9Z/owmGWucazkyc8qg41SMTdUp3wLGcnBDa+K5SAqK
+DmtxH9UE4vFRP8oKCiuJNRgg1/cRowiokEn6mdc3GPfw+dsihrE=
+=WXkL
+-----END PGP SIGNATURE-----
