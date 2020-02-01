@@ -20,8 +20,8 @@ show-desktop-icons = true
 automatic-timezone=true
 
 [org.gnome.desktop.interface:pop]
-gtk-theme = "Pop"
-icon-theme = "Pop"
+gtk-theme = "Plata-Lumine"
+icon-theme = "Papirus-Light"
 cursor-theme = "Pop"
 font-name = "Roboto Light 11"
 document-font-name = "Roboto 11"
@@ -42,12 +42,11 @@ startup-mode = 'cwd'
 clock-format = '12h'
 
 [org.gnome.desktop.wm.keybindings:pop]
-close = ['<Super>w']
 maximize = []
 
 [org.gnome.desktop.wm.preferences:pop]
 resize-with-right-button = true
-theme = "Pop"
+theme = 'Plata-Lumine'
 titlebar-font = 'Roboto Light 11'
 titlebar-uses-system-font = false
 
@@ -94,3 +93,15 @@ show-trash = false
 [org.gnome.desktop.peripherals.touchpad:pop]
 tap-to-click=true
 natural-scroll=false
+
+#####################
+#    Background     #
+#####################
+
+[org.gnome.desktop.background:pop]
+picture-uri = 'file:///usr/share/backgrounds/pop/workspaces.jpg'
+picture-options = 'zoom'
+
+[org.gnome.desktop.screensaver:pop]
+picture-uri = 'file:///usr/share/backgrounds/pop/workspaces.jpg'
+picture-options = 'zoom'
