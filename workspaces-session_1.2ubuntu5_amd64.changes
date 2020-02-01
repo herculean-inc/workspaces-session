@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sat, 01 Feb 2020 15:04:47 -0600
+Source: workspaces-session
+Binary: workspaces-session
+Architecture: source all
+Version: 1.2ubuntu5
+Distribution: eoan
+Urgency: medium
+Maintainer: Herculean Inc <hello@hercules.dev>
+Changed-By: Herculean Inc <hello@hercules.dev>
+Description:
+ workspaces-session - GNOME session for Workspaces
+Changes:
+ workspaces-session (1.2ubuntu5) eoan; urgency=medium
+ .
+   * NEW VERSION
+Checksums-Sha1:
+ 9bceab5a37e9a01271993d24d8274521ba771842 698 workspaces-session_1.2ubuntu5.dsc
+ dc6aa851ee0dc57d5def76ff0e11300f613b8bb2 14208 workspaces-session_1.2ubuntu5.tar.xz
+ a72322e7ba611ad8e08c9a8f67efd49e31bc01f4 3664 workspaces-session_1.2ubuntu5_all.deb
+ 4db275f6b4f0c9d00c95c5d7abb9fbb1129bd6e1 5532 workspaces-session_1.2ubuntu5_amd64.buildinfo
+Checksums-Sha256:
+ 4b3890a4287fb39d72cb9e8068bbc0579071f36cbc4c292f3fca3204a689d218 698 workspaces-session_1.2ubuntu5.dsc
+ 54d2d692c8cb07fe394491e42836f83d2161ec8482671abdd2cee18c8fdce392 14208 workspaces-session_1.2ubuntu5.tar.xz
+ c3d1826f6c65a3616fec387257566fd5f104b6c9924443bbe5866e60cc43a0da 3664 workspaces-session_1.2ubuntu5_all.deb
+ de9bc20060a7f5633bab72da1d659a7fea27b7110063574703f5a16b8194bac3 5532 workspaces-session_1.2ubuntu5_amd64.buildinfo
+Files:
+ 816c1121baa9a13a65b66998d36697ea 698 x11 optional workspaces-session_1.2ubuntu5.dsc
+ 3b0007647858df772a5879e5b58d9372 14208 x11 optional workspaces-session_1.2ubuntu5.tar.xz
+ 48746418ca856e1dbdc6a8d16c4a8905 3664 x11 optional workspaces-session_1.2ubuntu5_all.deb
+ d088c22583b8fa5d1eda75076ec5bbf2 5532 x11 optional workspaces-session_1.2ubuntu5_amd64.buildinfo

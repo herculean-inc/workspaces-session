@@ -1,0 +1,122 @@
+##################################
+# pop-session settings #
+##################################
+
+[org.gnome.shell:pop]
+always-show-log-out = true
+app-picker-view = 1
+
+[org.gnome.shell.keybindings:pop]
+open-application-menu = ['<Super>m']
+toggle-message-tray = ['<Super>v']
+
+[org.gnome.desktop.app-folders:pop]
+folder-children = ['Pop-Office', 'Pop-System', 'Pop-Utility']
+
+[org.gnome.desktop.background:pop]
+show-desktop-icons = true
+
+[org.gnome.desktop.datetime:pop]
+automatic-timezone=true
+
+[org.gnome.desktop.interface:pop]
+clock-show-date=true
+clock-format = '12h'
+enable-hot-corners = false
+
+[org.gnome.desktop.notifications:pop]
+show-in-lock-screen = false
+
+[org.gnome.desktop.sound:pop]
+theme-name = "Pop"
+
+[org.gtk.Settings.FileChooser:pop]
+sort-directories-first = true
+startup-mode = 'cwd'
+clock-format = '12h'
+
+[org.gnome.desktop.wm.keybindings:pop]
+maximize = []
+
+[org.gnome.desktop.wm.preferences:pop]
+resize-with-right-button = true
+theme = 'Plata-Lumine'
+titlebar-font = 'Roboto Light 11'
+titlebar-uses-system-font = false
+
+[org.gnome.nautilus.desktop:pop]
+home-icon-visible = false
+trash-icon-visible = false
+volumes-visible = false
+
+[org.gnome.nautilus.icon-view:pop]
+default-zoom-level = 'standard'
+
+[org.gnome.mutter:pop]
+attach-modal-dialogs = false
+edge-tiling = true
+dynamic-workspaces = true
+workspaces-only-on-primary = true
+
+[org.gnome.settings-daemon.plugins.media-keys:pop]
+terminal = ['<Super>t']
+
+[org.gnome.settings-daemon.plugins.power:pop]
+button-power = 'interactive'
+button-sleep = 'suspend'
+critical-battery-action = 'suspend'
+power-button-action = 'interactive'
+
+[org.gnome.settings-daemon.plugins.xsettings:pop]
+antialiasing = 'grayscale'
+
+[org.gnome.shell:pop]
+enabled-extensions = ['workspaces-material-shell@herculean-inc', 'alt-tab-raise-first-window@system76.com', 'always-show-workspaces@system76.com', 'batteryiconfix@kylecorry31.github.io', 'desktop-icons@csoriano', 'donotdisturb@kylecorry31.github.io', 'pop-shop-details@system76.com', 'pop-suspend-button@system76.com', 'system76-power@system76.com']
+
+[org.gnome.shell.overrides:pop]
+attach-modal-dialogs = true
+
+[org.gnome.shell.extensions.desktop-icons:pop]
+show-home = false
+show-trash = false
+
+#####################
+# Touchpad settings #
+#####################
+
+[org.gnome.desktop.peripherals.touchpad:pop]
+tap-to-click=true
+natural-scroll=false
+
+#####################
+#    Workspaces     #
+#####################
+
+[org.gnome.desktop.background:pop]
+picture-uri = 'file:///usr/share/backgrounds/workspaces/mountains.jpg'
+picture-options = 'zoom'
+
+[org.gnome.desktop.screensaver:pop]
+picture-uri = 'file:///usr/share/backgrounds/workspaces/mountains.jpg'
+picture-options = 'zoom'
+
+[org.gnome.desktop.interface:pop]
+gtk-theme = "Plata-Lumine"
+icon-theme = "Papirus-Light"
+cursor-theme = "Pop"
+font-name = "Roboto Light 11"
+document-font-name = "Roboto 11"
+monospace-font-name = "Fira Mono 11"
+
+# Compatibility with Material Shell
+[org.gnome.mutter]
+dynamic-workspaces = false
+workspaces-only-on-primary = true
+edge-tiling = false
+
+[org.gnome.shell.overrides]
+edge-tiling = false
+
+[org.gnome.desktop.wm.preferences]
+action-middle-click-titlebar = 'minimize'
+button-layout = 'close,minimize,maximize:appmenu'

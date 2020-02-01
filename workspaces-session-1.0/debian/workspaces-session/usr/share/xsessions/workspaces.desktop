@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Workspaces
+Comment=This session logs you into Workspaces OS.
+Exec=env GNOME_SHELL_SESSION_MODE=workspaces /usr/bin/gnome-session --systemd --session=workspaces
+TryExec=/usr/bin/gnome-shell
+Type=Application
+DesktopNames=workspaces:GNOME
+X-GDM-SessionRegisters=true
+X-Ubuntu-Gettext-Domain=gnome-session-3.0
