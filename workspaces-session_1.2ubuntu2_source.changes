@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 01 Feb 2020 10:23:49 -0600
+Source: workspaces-session
+Architecture: source
+Version: 1.2ubuntu2
+Distribution: eoan
+Urgency: medium
+Maintainer: Herculean Inc <hello@hercules.dev>
+Changed-By: Herculean Inc <hello@hercules.dev>
+Changes:
+ workspaces-session (1.2ubuntu2) eoan; urgency=medium
+ .
+   * NEW VERSION
+Checksums-Sha1:
+ a6663db72164b3ae02927fd010f78b93afa3a81f 1581 workspaces-session_1.2ubuntu2.dsc
+ 37abf37ff3a67eb2f37e37e1953b5abb476466a1 14224 workspaces-session_1.2ubuntu2.tar.xz
+ 375293dba3d3ad925725cf8ed442987ac318eef3 6143 workspaces-session_1.2ubuntu2_source.buildinfo
+Checksums-Sha256:
+ 31cfd3c0d405fa13387edb76dd29d325162dcb8dc7ba1c0789f20bb14b86c5b5 1581 workspaces-session_1.2ubuntu2.dsc
+ f635bbeb4a7c11efe9981e9fed626bb52b059ac75ff9c13e85535157ca0012d1 14224 workspaces-session_1.2ubuntu2.tar.xz
+ d98bb6ad377c0a8da4ed541e9d4fb79b315eb03c82d4c86569b4f694ee098f6b 6143 workspaces-session_1.2ubuntu2_source.buildinfo
+Files:
+ fa08ef8ee811e7ba2998eaa49e5f19a6 1581 x11 optional workspaces-session_1.2ubuntu2.dsc
+ be3ec2bc5640fb087594fbf48e2da3e3 14224 x11 optional workspaces-session_1.2ubuntu2.tar.xz
+ b8ee45afa618f65fa06af018d0faa7cb 6143 x11 optional workspaces-session_1.2ubuntu2_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE1mN7EaBKs8vNXODr4dwtItTbNMgFAl41phYACgkQ4dwtItTb
+NMhsnxAAgu6UNbbLNngs7nErmtLcK7AasQZZYVoi2Exz8i/O+MiMQGdizbCFm4oW
+RPhnfiGEXoOS0QPCI2tNJzgW+BrkY3DhV/UAXzLnmbj7t6HCHqjXQQtjEYyvI4s3
+SS79cG3lRQh7BxGG2UglG+nGai0ONc2G3QUrEUiwE6XOK5MhtH3HiZXv0vcRn8qn
+qYKsrzfDNq6IbarDNl6hqbG5HG5w7rQEPMhVHsJVGxnWW/IyoA2sMP8wXjD40nDr
+Q8icVPo45jTAjUOswevy9byHTOlc7DHBmOFqn10J7LfYPGTaRMt+8Xv/aR/xPwfE
+VLil6VOiASMyypuhrYqSUGzEYckhkQN2yDaaE6v2QhKwLzPj8Hskm0jeR3qUSA55
+eGZ5DASgXcjuYKF4NsaVwxS1iQxz/KUYuKkdKDI46hO0/F+q8AWSLGm6nX+zLMyk
+irXpt/ai+BQajnb4Tid534ekIMAGvVHWixDRbIzs4XrdJ6YkhaLMGxOWLJ8BIbi+
+0mN7uZ4kVNVlMgAQRhHFKPCGzDvTgrpCOJXCGg2uvZX12gcpITNRUYmEyWc24fge
+vgrpqOYatDugPTaFwvOjDmS7zXw5e07T5+9RZHPgIB3KXW51Jcbei4cTQnuX3oTv
+gvsB1avTQQA5dU8m5JFHZQLpDY19klPxtHc15Q/MyMwEWNM2nkM=
+=NtrL
+-----END PGP SIGNATURE-----

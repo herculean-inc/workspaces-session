@@ -111,3 +111,19 @@ monospace-font-name = "Fira Mono 11"
 [org.gnome.shell.extensions.materialshell.theme]
 theme = 'primary'
 primary-color = '#003c8f'
+
+[org.gnome.shell.extensions.materialshell.layout]
+float = true
+grid = false
+half = false
+half-horizontal = false
+half-vertical = false
+maximize = false
+simple = false
+simple-horizontal = false
+simple-vertical = false
+split = false
+
+[org.gnome.desktop.wm.preferences]
+action-middle-click-titlebar = 'minimize'
+button-layout = 'close,minimize,maximize:appmenu'
