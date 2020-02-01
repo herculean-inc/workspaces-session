@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Fri, 31 Jan 2020 21:22:42 -0600
+Source: workspaces-session
+Architecture: source
+Version: 1.0.1
+Distribution: eoan
+Urgency: medium
+Maintainer: Herculean Inc <hello@hercules.dev>
+Changed-By: Herculean Inc <hello@hercules.dev>
+Changes:
+ workspaces-session (1.0.1) eoan; urgency=medium
+Checksums-Sha1:
+ 462b595deaab50da5cc1c7f0904727da6b5d02da 1561 workspaces-session_1.0.1.dsc
+ 615e4b89603d80e5b1fdef84ed74c84cb8bf38d4 13988 workspaces-session_1.0.1.tar.xz
+ 74218e9ae1ff18d66755330f5af7027e5cebe3d5 6123 workspaces-session_1.0.1_source.buildinfo
+Checksums-Sha256:
+ dc12393334c93a12421fb474355660f20b73de9ea1eb44f0717e684143fb943e 1561 workspaces-session_1.0.1.dsc
+ 13e0bb151eda2c99edd851fea5b5f679069bcf81001a90afdbc67ccb43f94d94 13988 workspaces-session_1.0.1.tar.xz
+ f12bcb4169a25db92673129fbbe394b1d027fb6065907b59042482da712e90e4 6123 workspaces-session_1.0.1_source.buildinfo
+Files:
+ 10e19c1823a1eb328818ebceed097c71 1561 x11 optional workspaces-session_1.0.1.dsc
+ 8b9baa7a03274a34d83ad980f86e46e4 13988 x11 optional workspaces-session_1.0.1.tar.xz
+ 86bca73a309720dd86fbb144f082d9dc 6123 x11 optional workspaces-session_1.0.1_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE1mN7EaBKs8vNXODr4dwtItTbNMgFAl407xcACgkQ4dwtItTb
+NMgWqg/9Gy9nikAm5Mza1svRmkcm0FwQruKt448uPCCsKbmWwxgDiBS3rxVrOlTR
+2OrBNS34SWLcAl0PMhezEN3OSjpRkWO4p8GcvywpnOyeYmcflJXmsMhvbbGWcnhn
+5N9kQ0xpTDcGSItDqhHyqVytHrZV1tGbjsJ9ypdzkgFElI0WeAze8RrP491dn5/7
+YJ8QWLt/gwtxpP4QEqzAGZkskayrY8ywTGWTfEblk3Q/SeCXIA0F+eSWKRIfTTt8
+knzQQwbwHUNpC2syjKSFlzaXc6BTH1y/OVBTNIPHp6Ww69TReSsTLznOZuFhPb3Q
+wGDWmPbHn6HCh1qrddFveRfi7yYMiCPNLRszwSS5HAjG04J1Ls71FvCd+obU+0+c
+3oTCYQvgCXcaq9Hd26DPnR6+mpz+gIOX1/f4oukGEViJe1JEiL8e9qQPeha4hJYx
+mL7+BkQWx1qDb3XsndgS2DenILHMpp0FBT6HZGKMdmYPwp0j5E4HrqlxjwTxxHRA
+Aqo7bg9M8C/19KVD2G/Exo0b/VdpKKvQ8k+JPr8pVorR5dq0CJi7p3IIhN+RyrtY
+wGTFyrl8w3f9TttT1RhNiVACExM2XDPFabYPQU+T8xEEOMBmPyQLEUjx8Oy3hdB8
+tPH7H6oC7ILkZU5Pocs6Duus9lzaDGURYuvz9PDrOSlGLHvvUVY=
+=Dj7r
+-----END PGP SIGNATURE-----

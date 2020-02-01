@@ -1,3 +1,9 @@
+workspaces-session (1.0.1) eoan; urgency=medium
+
+Small customizations.  * 
+
+ -- Herculean Inc <hello@hercules.dev>  Fri, 31 Jan 2020 21:22:42 -0600
+
 workspaces-session (1.0.0) eoan; urgency=medium
 
   * First release
