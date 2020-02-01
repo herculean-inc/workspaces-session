@@ -99,9 +99,9 @@ natural-scroll=false
 #####################
 
 [org.gnome.desktop.background:pop]
-picture-uri = 'file:///usr/share/backgrounds/pop/workspaces.jpg'
+picture-uri = 'file:///usr/share/backgrounds/workspaces/workspaces.jpg'
 picture-options = 'zoom'
 
 [org.gnome.desktop.screensaver:pop]
-picture-uri = 'file:///usr/share/backgrounds/pop/workspaces.jpg'
+picture-uri = 'file:///usr/share/backgrounds/workspaces/workspaces.jpg'
 picture-options = 'zoom'
