@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 01 Feb 2020 09:35:40 -0600
+Source: workspaces-session
+Architecture: source
+Version: 1.2ubuntu1
+Distribution: eoan
+Urgency: medium
+Maintainer: Herculean Inc <hello@hercules.dev>
+Changed-By: Herculean Inc <hello@hercules.dev>
+Changes:
+ workspaces-session (1.2ubuntu1) eoan; urgency=medium
+ .
+   * NEW VERSION
+Checksums-Sha1:
+ 98d2eb86e13daaaf97de3b12b8413d3067fced64 1581 workspaces-session_1.2ubuntu1.dsc
+ 9f351a81adb2110056c0eda9f19c08aea255c42a 14084 workspaces-session_1.2ubuntu1.tar.xz
+ e8301c3146a9a766f413e014864001ac35926ac9 6143 workspaces-session_1.2ubuntu1_source.buildinfo
+Checksums-Sha256:
+ 8637c77016ef95b93ae7896b90febfd1f4b6152d1f2a8b08dc3042bdd6eee3e2 1581 workspaces-session_1.2ubuntu1.dsc
+ 75e5c673663fac5270770a556008ee593de87767094339371a215bcec522e00d 14084 workspaces-session_1.2ubuntu1.tar.xz
+ e48244eb4598b8e4f84d23c23a5ae0f11f6bfff92b109fc83238f2a2082dc7b7 6143 workspaces-session_1.2ubuntu1_source.buildinfo
+Files:
+ 13234a225faab509b7d996f4b6a43a6d 1581 x11 optional workspaces-session_1.2ubuntu1.dsc
+ 7b27af5404d59aae28012730251592fe 14084 x11 optional workspaces-session_1.2ubuntu1.tar.xz
+ ff1a7dfc586968c4ebdd4fbadbfc3da4 6143 x11 optional workspaces-session_1.2ubuntu1_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE1mN7EaBKs8vNXODr4dwtItTbNMgFAl41ms0ACgkQ4dwtItTb
+NMhNcg/+Kw0zYYvb3iU05xo2amaPHlqgm4eDgZ608Zn52ijJzXNdEvrhzqE3j73M
+UDGWXqPUxMzQmH7J3DQygbE3m85YYF0ksUrvjbtcaoZsqxzj9MEvj6KSQMRnoe5z
+afpfEouN4knJqKq7Chlq5JDANFrDjiLXGH95HVV1JJgmMTIRWuGfB3cGSpC82S0z
+gATblftBYkh+zqcvXZY0q8cxNK9PBK4+V3KaxZZSYZf5xhqVz4GREFj4NDgzyKk0
++PVmynw4FAWAIYLlwwufceK476yWo49jMn9E5BvzTqNCo2KpAt6RATtH2r4poEUD
+8DbZ7n9Wkin4XHEvO/lsfuS20+EcEwL5e5thvpe/AwSfRSplQ22yIBnhrPmmhdhZ
+IcBHnwT7kRZw9dfT7aL2gx7gmInmTzWZ+7sxR2hxWsyLLcB+nkWPzYQ9HZxa8/xC
+4yirz7/wIed9gFMYW4RpJ/aYRyvDgLR6k/VhPQfmWA4HZU/sOFG+qaUB0aiMlfgx
+Dfw+Ik50llh3IM7sG/lXuyXvn6BfAKvu4ETvh1heO3YGZYkIO9UblHoccwz3gnyH
+ibLS9eV3+hhCa6b0173uzP78StjuD0jlmA6NDjcGFb+tihMgLpBvSihqFiXDe1Vs
+8GoqoJ/2ZCcOMsOZ/eRdiM4RdpRCUqVOiHtBGLhun8/jvAf2a1o=
+=Pm6h
+-----END PGP SIGNATURE-----
