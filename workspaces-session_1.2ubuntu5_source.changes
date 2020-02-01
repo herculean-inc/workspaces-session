@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 01 Feb 2020 15:04:47 -0600
+Source: workspaces-session
+Architecture: source
+Version: 1.2ubuntu5
+Distribution: eoan
+Urgency: medium
+Maintainer: Herculean Inc <hello@hercules.dev>
+Changed-By: Herculean Inc <hello@hercules.dev>
+Changes:
+ workspaces-session (1.2ubuntu5) eoan; urgency=medium
+ .
+   * NEW VERSION
+Checksums-Sha1:
+ ed7875469094e966be402dbb70bd857ab0f6acb6 1581 workspaces-session_1.2ubuntu5.dsc
+ 589cdb7e36439f612ad81b3f98ca35ae0f6c7ac1 14212 workspaces-session_1.2ubuntu5.tar.xz
+ e66997bcc60ecb6eb70aba2c7d4a09a26a05c85c 6143 workspaces-session_1.2ubuntu5_source.buildinfo
+Checksums-Sha256:
+ 1c35d8e54c59ff3853c344399d69c766105a69c90926d46cb3569009395dba2f 1581 workspaces-session_1.2ubuntu5.dsc
+ 5f7470b4ec4401c95f458e53007eb41347162ff53b1fb8478f249109bbf01b4f 14212 workspaces-session_1.2ubuntu5.tar.xz
+ f661d5133667bd543778a29581b992ec093bb9015835cccbcc1436031ac881d7 6143 workspaces-session_1.2ubuntu5_source.buildinfo
+Files:
+ c6c0063c1f26c138d6d935611a498edb 1581 x11 optional workspaces-session_1.2ubuntu5.dsc
+ 834e9e10258e81a4b5b185259fc3f7f9 14212 x11 optional workspaces-session_1.2ubuntu5.tar.xz
+ ea5a4314346ff9a88e71fa4699069a22 6143 x11 optional workspaces-session_1.2ubuntu5_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE1mN7EaBKs8vNXODr4dwtItTbNMgFAl415/AACgkQ4dwtItTb
+NMizpA/9Eo26TL6ZZY9Nynx3E1AbrsweHbgJoDHyIXMsN6zEmOiWmkCi1t+OEhEF
+5xPmdadN3ysxj1D4ZI09eHzdUB6FBJRJFg/23oe+hwq8Dlj4T0R31SLDk+WwqINT
+/j0E3N5PCMu947Ie2DNB5SjBGndVG+cYeLaXjLNKBper+EztSZ676nFveYplyEAZ
+TCFBRH8kqWKD86uizL1/6+Ae0sEx7gip65pau0lSUvQDz6T/e+mARliXOorn86fU
+R80CS0ZJxzoofQ2eIp1Cj8fGxi/yhYKlpItnJpEhXdBnfGjkLK5mmUo93hq3mQk1
+kU4dORXgPj1ekzuseUFiWIYHP1zS5hRpUSoJa4nZ/FO+TTjuv9tTBPCYQ2uZXMIy
+iz2/8wTF4igZBqeg7DydOg1JMciHaM8LRtvkTLxSFc63hWcuPUD63CI0uiCHwu/m
+ma3fjY75lYbtmVDofUlnxMVKOk4h1wbic1WqZSSJJ4+Qad1LNvHvy52MfevAjDG5
+e9igDX2iDQrlxEOCKqd5C8j9LoYvWwW3kTgf+ra/Iskw4arUOh6HZxSvmophvb3/
+df7oH2bsK00r3w/tBIIilQa3UJq1JaXPUk0EgFDhA03N5rgFsN5gZ/93gwVkEf2M
+jfyxZI8dMpbXeARC8aZlUG/bJiqlkYfFSurI0EuWmWfZPDbSHO4=
+=M4kP
+-----END PGP SIGNATURE-----
