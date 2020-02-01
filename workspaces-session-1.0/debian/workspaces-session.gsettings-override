@@ -108,21 +108,14 @@ font-name = "Roboto Light 11"
 document-font-name = "Roboto 11"
 monospace-font-name = "Fira Mono 11"
 
-[org.gnome.shell.extensions.materialshell.theme]
-theme = 'primary'
-primary-color = '#003c8f'
+# Compatibility with Material Shell
+[org.gnome.mutter]
+dynamic-workspaces = false
+workspaces-only-on-primary = true
+edge-tiling = false
 
-[org.gnome.shell.extensions.materialshell.layout]
-float = true
-grid = false
-half = false
-half-horizontal = false
-half-vertical = false
-maximize = false
-simple = false
-simple-horizontal = false
-simple-vertical = false
-split = false
+[org.gnome.shell.overrides]
+edge-tiling = false
 
 [org.gnome.desktop.wm.preferences]
 action-middle-click-titlebar = 'minimize'

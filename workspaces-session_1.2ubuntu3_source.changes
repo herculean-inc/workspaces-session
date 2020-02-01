@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 01 Feb 2020 11:30:25 -0600
+Source: workspaces-session
+Architecture: source
+Version: 1.2ubuntu3
+Distribution: eoan
+Urgency: medium
+Maintainer: Herculean Inc <hello@hercules.dev>
+Changed-By: Herculean Inc <hello@hercules.dev>
+Changes:
+ workspaces-session (1.2ubuntu3) eoan; urgency=medium
+ .
+   * NEW VERSION
+Checksums-Sha1:
+ a1d6d4f984fad534f66709ed360de6b852529e9c 1581 workspaces-session_1.2ubuntu3.dsc
+ 552eb1cda152aa98d368297ec79818dd493a37db 14192 workspaces-session_1.2ubuntu3.tar.xz
+ a9895fb6d49a80e14f196b484ef48e044c0ea645 6143 workspaces-session_1.2ubuntu3_source.buildinfo
+Checksums-Sha256:
+ e221d833144ecd66a8bbe0739b33de05f93a523fc58c031181b63bda19755229 1581 workspaces-session_1.2ubuntu3.dsc
+ d52168a949505f9880ee4ae89585636916b55b91a65ebccaf6351b42971f3339 14192 workspaces-session_1.2ubuntu3.tar.xz
+ 94be574e1ae4a7cd8340faf50a343747c21cc250bec84e23065388390e3958ea 6143 workspaces-session_1.2ubuntu3_source.buildinfo
+Files:
+ bdefd97af5f838b01ff5fda807be2673 1581 x11 optional workspaces-session_1.2ubuntu3.dsc
+ e6340f6b269009a322f64063047fa30d 14192 x11 optional workspaces-session_1.2ubuntu3.tar.xz
+ 4271b1313caef546603c3f7064ffb2b4 6143 x11 optional workspaces-session_1.2ubuntu3_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE1mN7EaBKs8vNXODr4dwtItTbNMgFAl41tbIACgkQ4dwtItTb
+NMgAEBAAtG9hCVNYxC+Lng3TPCAIbnZg1tpAxKmFQC6LjoUG+xp/bfFoRaM1ZQI9
+tx2Y5U4qiW+xyfqLZayoFxkzW/7cKyOCpVpXf++BTALMvdo6r6e3jvgB87Vs66My
+1/6aRNoyPhLARn/DiSrkKy4vX7HtxHpZrZI70pKgYIAnCRvDtxJ+o1+MZ8kREN71
+LyVItG3E5K6BGyyjGk3x0atzdxbtO8+BkKeQSztEbMRcjcxpzpQMhF0xRrPMa42J
+UqX11arxia1SWOe1Xy8O+QUOPfGLsZaPkbJbm6MJAIrXCQNysSXCYs/QPYYnL6Ij
+JC4erLlz0CJUOemZyL9NlIF6i285Dwv2+TogD5Hpmi4eWeLAPK3ujvJFvCzyFOtW
+UZBsc6C4kDiqRSkQaxCHcZgKAy+tnL/PuoLDI93/xfZUYUsJxcN9g3tBjOOn3lXL
+vFpkzyLQP4uS06cHL51GHL47PjptSXFNIjax2uNERGY4/E61cMsHOzF1TWSd4MtD
+iy+n6h+twG3V83GSoPFvvKjpq4JZo986JLYT7wFQzNoUm3nLIrEMOpb9pwGo9+0E
+FmYjx8/2gDOioVfN7d4nwAe/6PozQSouhxecK1JiGxaUQlkWNf50ne3lEAd6+njm
+G5mSclWqWwZTNkPBRmvUhSdHxSqSXG0SPE5nQDqrN+u4dOeQdWY=
+=Lseo
+-----END PGP SIGNATURE-----
