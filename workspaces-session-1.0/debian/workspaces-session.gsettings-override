@@ -104,8 +104,8 @@ picture-options = 'zoom'
 gtk-theme = "Plata-Lumine"
 icon-theme = "Papirus-Light"
 cursor-theme = "Workspaces"
-font-name = "Roboto Light 11"
-document-font-name = "Roboto 11"
+font-name = "Roboto Light 10"
+document-font-name = "Roboto 10"
 monospace-font-name = "Fira Mono 11"
 
 # Compatibility with Material Shell
