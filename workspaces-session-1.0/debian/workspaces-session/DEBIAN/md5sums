@@ -1,7 +1,0 @@
-0957a52195225ff01296694c1fcbb601  usr/share/doc/workspaces-session/changelog.gz
-6b5ccb67b612de8d9194fc849aa5eace  usr/share/doc/workspaces-session/copyright
-c82d87e4b0a0f7c110e99f93025cd5a9  usr/share/glib-2.0/schemas/50_workspaces-session.gschema.override
-62c07ab4fb49fdb6694074dc32850194  usr/share/gnome-session/sessions/workspaces.session
-70a2768d3cec8af8d8386767ce7e1d2c  usr/share/gnome-shell/modes/workspaces.json
-7790d2825050a0ada52a9cf625ff1fd4  usr/share/wayland-sessions/workspaces.desktop
-02c66501ae4131f1676c6b780088de46  usr/share/xsessions/workspaces.desktop
