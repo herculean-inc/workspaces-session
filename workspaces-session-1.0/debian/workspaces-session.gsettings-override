@@ -1,82 +1,82 @@
 ##################################
-# pop-session settings #
+# workspaces-session settings #
 ##################################
 
-[org.gnome.shell:pop]
+[org.gnome.shell:workspaces]
 always-show-log-out = true
 app-picker-view = 1
 
-[org.gnome.shell.keybindings:pop]
+[org.gnome.shell.keybindings:workspaces]
 open-application-menu = ['<Super>m']
 toggle-message-tray = ['<Super>v']
 
-[org.gnome.desktop.app-folders:pop]
+[org.gnome.desktop.app-folders:workspaces]
 folder-children = ['Pop-Office', 'Pop-System', 'Pop-Utility']
 
-[org.gnome.desktop.background:pop]
+[org.gnome.desktop.background:workspaces]
 show-desktop-icons = true
 
-[org.gnome.desktop.datetime:pop]
+[org.gnome.desktop.datetime:workspaces]
 automatic-timezone=true
 
-[org.gnome.desktop.interface:pop]
+[org.gnome.desktop.interface:workspaces]
 clock-show-date=true
 clock-format = '12h'
 enable-hot-corners = false
 
-[org.gnome.desktop.notifications:pop]
+[org.gnome.desktop.notifications:workspaces]
 show-in-lock-screen = false
 
-[org.gnome.desktop.sound:pop]
+[org.gnome.desktop.sound:workspaces]
 theme-name = "Pop"
 
-[org.gtk.Settings.FileChooser:pop]
+[org.gtk.Settings.FileChooser:workspaces]
 sort-directories-first = true
 startup-mode = 'cwd'
 clock-format = '12h'
 
-[org.gnome.desktop.wm.keybindings:pop]
+[org.gnome.desktop.wm.keybindings:workspaces]
 maximize = []
 
-[org.gnome.desktop.wm.preferences:pop]
+[org.gnome.desktop.wm.preferences:workspaces]
 resize-with-right-button = true
 theme = 'Plata-Lumine'
 titlebar-font = 'Roboto Light 11'
 titlebar-uses-system-font = false
 
-[org.gnome.nautilus.desktop:pop]
+[org.gnome.nautilus.desktop:workspaces]
 home-icon-visible = false
 trash-icon-visible = false
 volumes-visible = false
 
-[org.gnome.nautilus.icon-view:pop]
+[org.gnome.nautilus.icon-view:workspaces]
 default-zoom-level = 'standard'
 
-[org.gnome.mutter:pop]
+[org.gnome.mutter:workspaces]
 attach-modal-dialogs = false
 edge-tiling = true
 dynamic-workspaces = true
 workspaces-only-on-primary = true
 
-[org.gnome.settings-daemon.plugins.media-keys:pop]
+[org.gnome.settings-daemon.plugins.media-keys:workspaces]
 terminal = ['<Super>t']
 
-[org.gnome.settings-daemon.plugins.power:pop]
+[org.gnome.settings-daemon.plugins.power:workspaces]
 button-power = 'interactive'
 button-sleep = 'suspend'
 critical-battery-action = 'suspend'
 power-button-action = 'interactive'
 
-[org.gnome.settings-daemon.plugins.xsettings:pop]
+[org.gnome.settings-daemon.plugins.xsettings:workspaces]
 antialiasing = 'grayscale'
 
-[org.gnome.shell:pop]
+[org.gnome.shell:workspaces]
 enabled-extensions = ['workspaces-material-shell@herculean-inc', 'alt-tab-raise-first-window@system76.com', 'always-show-workspaces@system76.com', 'batteryiconfix@kylecorry31.github.io', 'desktop-icons@csoriano', 'donotdisturb@kylecorry31.github.io', 'pop-shop-details@system76.com', 'pop-suspend-button@system76.com', 'system76-power@system76.com']
 
-[org.gnome.shell.overrides:pop]
+[org.gnome.shell.overrides:workspaces]
 attach-modal-dialogs = true
 
-[org.gnome.shell.extensions.desktop-icons:pop]
+[org.gnome.shell.extensions.desktop-icons:workspaces]
 show-home = false
 show-trash = false
 
@@ -84,7 +84,7 @@ show-trash = false
 # Touchpad settings #
 #####################
 
-[org.gnome.desktop.peripherals.touchpad:pop]
+[org.gnome.desktop.peripherals.touchpad:workspaces]
 tap-to-click=true
 natural-scroll=false
 
@@ -92,18 +92,18 @@ natural-scroll=false
 #    Workspaces     #
 #####################
 
-[org.gnome.desktop.background:pop]
+[org.gnome.desktop.background:workspaces]
 picture-uri = 'file:///usr/share/backgrounds/workspaces/mountains.jpg'
 picture-options = 'zoom'
 
-[org.gnome.desktop.screensaver:pop]
+[org.gnome.desktop.screensaver:workspaces]
 picture-uri = 'file:///usr/share/backgrounds/workspaces/mountains.jpg'
 picture-options = 'zoom'
 
-[org.gnome.desktop.interface:pop]
+[org.gnome.desktop.interface:workspaces]
 gtk-theme = "Plata-Lumine"
 icon-theme = "Papirus-Light"
-cursor-theme = "Pop"
+cursor-theme = "Workspaces"
 font-name = "Roboto Light 11"
 document-font-name = "Roboto 11"
 monospace-font-name = "Fira Mono 11"
