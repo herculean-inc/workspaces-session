@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 02 Feb 2020 18:23:22 -0600
+Source: workspaces-session
+Architecture: source
+Version: 1.2ubuntu8
+Distribution: eoan
+Urgency: medium
+Maintainer: Herculean Inc <hello@hercules.dev>
+Changed-By: Herculean Inc <hello@hercules.dev>
+Changes:
+ workspaces-session (1.2ubuntu8) eoan; urgency=medium
+ .
+   * NEW VERSION
+Checksums-Sha1:
+ 5113f9da3462d92992c48df8df5159d8209c253c 1535 workspaces-session_1.2ubuntu8.dsc
+ a1b761ff9070176fa8bc7f6d9da1b46a148fe5d8 14116 workspaces-session_1.2ubuntu8.tar.xz
+ 8053a800d0d94495929f9c1b5fd68bb557fc2088 6143 workspaces-session_1.2ubuntu8_source.buildinfo
+Checksums-Sha256:
+ f8f96b619cf5eb56bd795ea5447877e5d1a3d1e594452ed45b4f6291c6c496aa 1535 workspaces-session_1.2ubuntu8.dsc
+ 43e8fc5013d2b2a9226ad23b02110e2ee2fe959e83613e8193923c4015829fab 14116 workspaces-session_1.2ubuntu8.tar.xz
+ 3ad45ec1792e292cac3144c6163bc93a4c256f73c3881bfefeadbd999df80f60 6143 workspaces-session_1.2ubuntu8_source.buildinfo
+Files:
+ 7fac7e86bc5b657c95bb87b3b0810585 1535 x11 optional workspaces-session_1.2ubuntu8.dsc
+ 928c944f3e78ad30d62395f2c3a2a85c 14116 x11 optional workspaces-session_1.2ubuntu8.tar.xz
+ b15c456b7f99c2d1689051368852bfb1 6143 x11 optional workspaces-session_1.2ubuntu8_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEE1mN7EaBKs8vNXODr4dwtItTbNMgFAl43Z/sACgkQ4dwtItTb
+NMgDTxAAuJLpbU85wmQi3p/opv5n5j2/GkF67yInbkX+QWrdz7I7tbotbs2BMhPR
+SrOH206ixvkulZZeSHisum4QX5aknC42EqGPV9P6yy6sAvU+E56B53ACEN5GlAPB
+At4ZiAZE8U6aa5nJhEjXwSa/uVcDjARXeyRzXG9QmaiP5okkneVkkB5FXhFqvMNL
+iR/rn3b5KcWSNqMVf1eFOfcaSzgZTtMA6whZaINXkAQFvJJ0OxxaXHvzR0WbDY0H
+RkVrl88ZdizMVhddOPF5LMkZRPEsfQpBiQQ/XNrTmm19rWHMUsyIE1OwVPLN8fZu
+k5Z6XSqcNBVSDZS5B1raZuNkMzi4b7DsqIGi/LHrnjwI52Zcf915Hx+twgD8EFC5
+ga4QI6vg02s/towzpuogfLNPu8W4v08O/iIcpNn7Y7cx0iT/DwywW3GZ+BwsEVlR
+LsWAeGYUVf4WkcP98Y87tEH6myRdlLAhf4cglO6E5rDOOMnfsdl8Gy3i+9m7nTmt
+aoTY13bUbpafPhyk/gAz2ePyQh5IEIwFOkHJrUqZ1p1CWO0MX4YEo5VLPcgE3uQI
+B9O7TFFRwgmUj6dubCJj9M+8m3QPk6vJuoigqqYZyNPhoO0IOMipDMAwa0NQRWWw
+HKcdkAQmQUowJ6LMb4bMz2arBYJHTqml+myD8FRS+GsDO/JWNE8=
+=Nh82
+-----END PGP SIGNATURE-----

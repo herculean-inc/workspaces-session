@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sun, 02 Feb 2020 18:23:22 -0600
+Source: workspaces-session
+Binary: workspaces-session
+Architecture: source all
+Version: 1.2ubuntu8
+Distribution: eoan
+Urgency: medium
+Maintainer: Herculean Inc <hello@hercules.dev>
+Changed-By: Herculean Inc <hello@hercules.dev>
+Description:
+ workspaces-session - GNOME session for Workspaces
+Changes:
+ workspaces-session (1.2ubuntu8) eoan; urgency=medium
+ .
+   * NEW VERSION
+Checksums-Sha1:
+ 21ee97fbe47a75ff838261627edd8adf44328863 652 workspaces-session_1.2ubuntu8.dsc
+ 6159966a316061e8db8d3375d1b70f9ee34d03a2 14108 workspaces-session_1.2ubuntu8.tar.xz
+ 5321ac567e495120b8ed6f99d367ad05e106defe 3556 workspaces-session_1.2ubuntu8_all.deb
+ cc7b8b28019277f74c84fecfd53eaf4abd79c93a 5532 workspaces-session_1.2ubuntu8_amd64.buildinfo
+Checksums-Sha256:
+ 713b7122078242df9afce2ccfa2c96f180c8b7401a928de3e361ad6b9819d9ab 652 workspaces-session_1.2ubuntu8.dsc
+ d414dfdb73c5f385bdebec18c86acb57cc8bee615a9f73de3ceb7dae636944ab 14108 workspaces-session_1.2ubuntu8.tar.xz
+ 08122bc9f89b8b52d0e1da23db98c2a1ad475bdfe72edc08df0dca3df4c6ab20 3556 workspaces-session_1.2ubuntu8_all.deb
+ dd808724970fd10716465978c77d45694c2befef5b1ed43f46219d14538c4979 5532 workspaces-session_1.2ubuntu8_amd64.buildinfo
+Files:
+ 97e6bc771cfdad9019d257ef04f02646 652 x11 optional workspaces-session_1.2ubuntu8.dsc
+ d7dfe5c206ed0bde67993865656246d0 14108 x11 optional workspaces-session_1.2ubuntu8.tar.xz
+ bb400a2c606506b86435f76215091bd1 3556 x11 optional workspaces-session_1.2ubuntu8_all.deb
+ f4a8e4de21b9479f0c5b83bad2b68b77 5532 x11 optional workspaces-session_1.2ubuntu8_amd64.buildinfo

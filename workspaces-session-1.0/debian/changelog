@@ -1,61 +1,11 @@
+workspaces-session (1.2ubuntu8) eoan; urgency=medium
+
+  * NEW VERSION
+
+ -- Herculean Inc <hello@hercules.dev>  Sun, 02 Feb 2020 18:23:22 -0600
+
 workspaces-session (1.2ubuntu7) eoan; urgency=medium
 
   * NEW VERSION
 
  -- Herculean Inc <hello@hercules.dev>  Sun, 02 Feb 2020 18:16:26 -0600
-
-workspaces-session (1.2ubuntu6) eoan; urgency=medium
-
-  * NEW VERSION
-
- -- Herculean Inc <hello@hercules.dev>  Sun, 02 Feb 2020 10:33:54 -0600
-
-workspaces-session (1.2ubuntu5) eoan; urgency=medium
-
-  * NEW VERSION
-
- -- Herculean Inc <hello@hercules.dev>  Sat, 01 Feb 2020 15:04:47 -0600
-
-workspaces-session (1.2ubuntu4) eoan; urgency=medium
-
-  * NEW VERSION
-
- -- Herculean Inc <hello@hercules.dev>  Sat, 01 Feb 2020 11:38:01 -0600
-
-workspaces-session (1.2ubuntu3) eoan; urgency=medium
-
-  * NEW VERSION
-
- -- Herculean Inc <hello@hercules.dev>  Sat, 01 Feb 2020 11:30:25 -0600
-
-workspaces-session (1.2ubuntu2) eoan; urgency=medium
-
-  * NEW VERSION
-
- -- Herculean Inc <hello@hercules.dev>  Sat, 01 Feb 2020 10:23:49 -0600
-
-workspaces-session (1.2ubuntu1) eoan; urgency=medium
-
-  * NEW VERSION
-
- -- Herculean Inc <hello@hercules.dev>  Sat, 01 Feb 2020 09:35:40 -0600
-
-workspaces-session (1.2) eoan; urgency=medium
-
-Changed wallpaper.  * 
-  * 
-  * 
-
- -- Herculean Inc <hello@hercules.dev>  Fri, 31 Jan 2020 22:24:44 -0600
-
-workspaces-session (1.0.1) eoan; urgency=medium
-
-Small customizations.  * 
-
- -- Herculean Inc <hello@hercules.dev>  Fri, 31 Jan 2020 21:22:42 -0600
-
-workspaces-session (1.0.0) eoan; urgency=medium
-
-  * First release
-
- -- Herculean Inc <hello@hercules.dev>  Fri, 31 Jan 2020 09:00:00 -0600

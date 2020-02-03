@@ -1,20 +1,20 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
-
 Format: 1.0
 Source: workspaces-session
 Binary: workspaces-session
-Architecture: source
-Version: 1.2ubuntu7
+Architecture: all source
+Version: 1.2ubuntu8
 Checksums-Md5:
- f613fe69caedd445d6d364307acc9a62 1581 workspaces-session_1.2ubuntu7.dsc
+ 97e6bc771cfdad9019d257ef04f02646 652 workspaces-session_1.2ubuntu8.dsc
+ bb400a2c606506b86435f76215091bd1 3556 workspaces-session_1.2ubuntu8_all.deb
 Checksums-Sha1:
- b0279d46b05e577a8c2f57dfb7a3b57f1e017e5f 1581 workspaces-session_1.2ubuntu7.dsc
+ 21ee97fbe47a75ff838261627edd8adf44328863 652 workspaces-session_1.2ubuntu8.dsc
+ 5321ac567e495120b8ed6f99d367ad05e106defe 3556 workspaces-session_1.2ubuntu8_all.deb
 Checksums-Sha256:
- bb232f064cb38fa84efccd7ceeb61a7b392e21c4c81463c5f9cfa625f72f2f5f 1581 workspaces-session_1.2ubuntu7.dsc
+ 713b7122078242df9afce2ccfa2c96f180c8b7401a928de3e361ad6b9819d9ab 652 workspaces-session_1.2ubuntu8.dsc
+ 08122bc9f89b8b52d0e1da23db98c2a1ad475bdfe72edc08df0dca3df4c6ab20 3556 workspaces-session_1.2ubuntu8_all.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Sun, 02 Feb 2020 18:16:27 -0600
+Build-Date: Sun, 02 Feb 2020 18:23:28 -0600
 Build-Tainted-By:
  merged-usr-via-symlinks
  usr-local-has-configs
@@ -171,21 +171,4 @@ Installed-Build-Depends:
 Environment:
  DEB_BUILD_OPTIONS="parallel=8"
  LANG="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1580688986"
-
------BEGIN PGP SIGNATURE-----
-
-iQIzBAEBCgAdFiEE1mN7EaBKs8vNXODr4dwtItTbNMgFAl43ZlsACgkQ4dwtItTb
-NMjPsA//Z4ClNOal0fHTH7KNAjJMzDDxU/mR1L4W3gO9Ze+6WlzX0Ss/rCWoQFY6
-8JLKfdNpjaLX9NtEIUWeNpuDQMA5O/nZ5GARHk6iUhJlwQgEFbW1ldbl7TeZiJMM
-8WQ0sx0JNFZkorUI6jH4mA7I7hTxfyAjpDJsdD1Hk/GeUCG5KZ5hrYBbfUJKIea3
-FvJDhtjeov8+EQ8cXNBtS426PZwspr0P22N+kr1iZuIPJBlRGpAaDq4imdvS4rjI
-trQORbAbjTSGsJlckCJtXAnPqQDE9XiznmHoCQS8a0VuHSuG376UqzKzrRbPpqB1
-bjh5uivWGDHso5/Pyif8MfT51l+1x52KTaZ0wZELRiXCvFKbqnFNnFq9jvhzFbRf
-NQ/tXMFy0F7zCFPk54Glt2rb2l+Fu37VHxhy87KCblWyVZVz+cbnhwUB8B07Aagp
-sBImFGAZonVONueFdOSuKxMWob2jrojtycy5GS4PAd99WDYbBu7UrfbBd5DQvB0z
-weogyuusDtxkkC2But9qv/BHdA1uVpi6RFuFHwo7wsN66o611jvq4LVr5rUzvXWC
-EirpCAQEvOqWmlnsI3STnWDsfrx67HU1If0tlQGqu6VEiyX6EKXTTnKJepIfb4I9
-nc3unTFjBkCoVl6ggPzjaPM3R57lBlHAnBmzDS96hnsPfmtcs6E=
-=fDny
------END PGP SIGNATURE-----
+ SOURCE_DATE_EPOCH="1580689402"
