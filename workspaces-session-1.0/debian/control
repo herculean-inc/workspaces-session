@@ -22,7 +22,7 @@ Depends: ${misc:Depends},
          gnome-shell-extension-system76-power,
          gnome-session-bin,
          gnome-session-common,
-         pop-gnome-shell-theme,
+         workspaces-gnome-shell-theme,
          xwayland,
 Provides: x-session-manager, gnome-session
 Breaks: workspaces-default-settings (<< 1)
