@@ -1,28 +1,28 @@
 ##################################
-# pop-session settings #
+# workspaces-session settings #
 ##################################
 
-[org.gnome.shell:pop]
+[org.gnome.shell:workspaces]
 always-show-log-out = true
 app-picker-view = 1
 
-[org.gnome.shell.keybindings:pop]
+[org.gnome.shell.keybindings:workspaces]
 open-application-menu = ['<Super>m']
 toggle-message-tray = ['<Super>v']
 
-[org.gnome.desktop.app-folders:pop]
-folder-children = ['Pop-Office', 'Pop-System', 'Pop-Utility']
+[org.gnome.desktop.app-folders:workspaces]
+folder-children = ['Workspaces-Office', 'Workspaces-System', 'Workspaces-Utility']
 
-[org.gnome.desktop.background:pop]
+[org.gnome.desktop.background:workspaces]
 show-desktop-icons = true
 
-[org.gnome.desktop.datetime:pop]
+[org.gnome.desktop.datetime:workspaces]
 automatic-timezone=true
 
-[org.gnome.desktop.interface:pop]
-gtk-theme = "Pop"
-icon-theme = "Pop"
-cursor-theme = "Pop"
+[org.gnome.desktop.interface:workspaces]
+gtk-theme = "Workspaces"
+icon-theme = "Workspaces"
+cursor-theme = "Workspaces"
 font-name = "Roboto Light 11"
 document-font-name = "Roboto 11"
 monospace-font-name = "Fira Mono 11"
@@ -30,60 +30,60 @@ clock-show-date=true
 clock-format = '12h'
 enable-hot-corners = false
 
-[org.gnome.desktop.notifications:pop]
+[org.gnome.desktop.notifications:workspaces]
 show-in-lock-screen = false
 
-[org.gnome.desktop.sound:pop]
-theme-name = "Pop"
+[org.gnome.desktop.sound:workspaces]
+theme-name = "Workspaces"
 
-[org.gtk.Settings.FileChooser:pop]
+[org.gtk.Settings.FileChooser:workspaces]
 sort-directories-first = true
 startup-mode = 'cwd'
 clock-format = '12h'
 
-[org.gnome.desktop.wm.keybindings:pop]
-close = ['<Super>w']
+[org.gnome.desktop.wm.keybindings:workspaces]
+close = ['<Super>q']
 maximize = []
 
-[org.gnome.desktop.wm.preferences:pop]
+[org.gnome.desktop.wm.preferences:workspaces]
 resize-with-right-button = true
-theme = "Pop"
+theme = "Workspaces"
 titlebar-font = 'Roboto Light 11'
 titlebar-uses-system-font = false
 
-[org.gnome.nautilus.desktop:pop]
+[org.gnome.nautilus.desktop:workspaces]
 home-icon-visible = false
 trash-icon-visible = false
 volumes-visible = false
 
-[org.gnome.nautilus.icon-view:pop]
+[org.gnome.nautilus.icon-view:workspaces]
 default-zoom-level = 'standard'
 
-[org.gnome.mutter:pop]
+[org.gnome.mutter:workspaces]
 attach-modal-dialogs = false
 edge-tiling = true
 dynamic-workspaces = true
 workspaces-only-on-primary = true
 
-[org.gnome.settings-daemon.plugins.media-keys:pop]
+[org.gnome.settings-daemon.plugins.media-keys:workspaces]
 terminal = ['<Super>t']
 
-[org.gnome.settings-daemon.plugins.power:pop]
+[org.gnome.settings-daemon.plugins.power:workspaces]
 button-power = 'interactive'
 button-sleep = 'suspend'
 critical-battery-action = 'suspend'
 power-button-action = 'interactive'
 
-[org.gnome.settings-daemon.plugins.xsettings:pop]
+[org.gnome.settings-daemon.plugins.xsettings:workspaces]
 antialiasing = 'grayscale'
 
-[org.gnome.shell:pop]
+[org.gnome.shell:workspaces]
 enabled-extensions = ['workspaces-material-shell@herculean-inc', 'alt-tab-raise-first-window@system76.com', 'always-show-workspaces@system76.com', 'batteryiconfix@kylecorry31.github.io', 'desktop-icons@csoriano', 'donotdisturb@kylecorry31.github.io', 'pop-shop-details@system76.com', 'pop-suspend-button@system76.com', 'system76-power@system76.com']
 
-[org.gnome.shell.overrides:pop]
+[org.gnome.shell.overrides:workspaces]
 attach-modal-dialogs = true
 
-[org.gnome.shell.extensions.desktop-icons:pop]
+[org.gnome.shell.extensions.desktop-icons:workspaces]
 show-home = false
 show-trash = false
 
@@ -91,6 +91,6 @@ show-trash = false
 # Touchpad settings #
 #####################
 
-[org.gnome.desktop.peripherals.touchpad:pop]
+[org.gnome.desktop.peripherals.touchpad:workspaces]
 tap-to-click=true
 natural-scroll=false
